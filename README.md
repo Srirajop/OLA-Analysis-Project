@@ -4,7 +4,10 @@ This project uses SQL and Power BI to tackle the business challenge of optimizin
 
 ## 🎥 Demo
 
-<img src="https://github.com/user-attachments/assets/ec96075c-619a-488a-8219-be75ded65077" alt="GIF of the Power BI dashboard" width="800">
+
+https://github.com/user-attachments/assets/a0a64687-923a-4928-8544-599448e345ed
+
+
 
 > [!NOTE]
 > Click the dropdown lists below for more information on SQL or Power BI.
@@ -478,7 +481,9 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 2. Open the file in **Power BI Desktop**.
 3. Explore the dashboards and insights interactively.
 
+</details>
 
+<details>
 ## Contact 📧
 
 For any queries or feedback, feel free to reach out:
@@ -492,6 +497,7 @@ For any queries or feedback, feel free to reach out:
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
 
 
+</details>
 
 
 
