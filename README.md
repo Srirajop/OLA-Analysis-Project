@@ -4,7 +4,7 @@ The OLA Data Analyst Project analyzes ride-booking data using SQL and Power BI t
 
 ## 🎥 Demo
 
-![Alt Text](https://github.com/Srirajop/OLA-Analysis-Project/blob/main/BIDemo.mp4)
+![Alt Text](BIDemo.mp4)
 
 > [!NOTE]
 > Click the dropdown list below for more information on SQL or Power BI.
@@ -522,6 +522,7 @@ For any queries or feedback, feel free to reach out:
 ## 🙌 Acknowledgments
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
+
 
 
 
