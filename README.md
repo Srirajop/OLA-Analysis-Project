@@ -119,7 +119,8 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
+<img width="1235" height="256" alt="image" src="https://github.com/user-attachments/assets/6eeb3e0d-76a5-463a-bc70-9fb4ee72ee71" />
+
 
 ---
 
@@ -140,7 +141,8 @@ GROUP BY Vehicle_Type;
 SELECT * FROM ride_distance_for_each_vehicle;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063354.png)
+<img width="201" height="176" alt="image" src="https://github.com/user-attachments/assets/c568a348-67c0-4777-863d-a56003aab5af" />
+
 
 ---
 
@@ -161,7 +163,8 @@ WHERE Booking_Status = 'cancelled by Customer';
 SELECT * FROM cancelled_rides_by_customers;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063653.png)
+<img width="114" height="53" alt="image" src="https://github.com/user-attachments/assets/f76e28b3-d47a-4c7f-814f-48b258fe8c84" />
+
 
 ---
 
@@ -184,7 +187,8 @@ LIMIT 5;
 SELECT * FROM Top_5_Customers;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20063859.png)
+<img width="214" height="127" alt="image" src="https://github.com/user-attachments/assets/9032a394-730a-4a7e-bd64-1e08d8892ea1" />
+
 
 ---
 
@@ -205,7 +209,8 @@ WHERE cancelled_Rides_by_Driver = 'Personal & Car related issue';
 SELECT * FROM Rides_cancelled_by_Drivers_P_C_Issues;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064122.png)
+<img width="107" height="58" alt="image" src="https://github.com/user-attachments/assets/c3805c55-6564-4e42-9277-be6db576d4a0" />
+
 
 ---
 
@@ -226,8 +231,8 @@ WHERE Vehicle_Type = 'Prime Sedan';
 ```sql
 SELECT * FROM Max_Min_Driver_Rating;
 ```
+<img width="209" height="52" alt="image" src="https://github.com/user-attachments/assets/06c3003d-0296-4524-bea7-84556f2a36dd" />
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064314.png)
 
 ---
 
@@ -247,8 +252,8 @@ WHERE Payment_Method = 'UPI';
 ```sql
 SELECT * FROM UPI_Payment;
 ```
+<img width="209" height="52" alt="image" src="https://github.com/user-attachments/assets/d69da267-90bc-41ec-a525-2f9dcb2f1d6a" />
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064820.png)
 
 ---
 
@@ -269,7 +274,8 @@ GROUP BY Vehicle_Type;
 SELECT * FROM AVG_Cust_Rating;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20064923.png)
+<img width="296" height="174" alt="image" src="https://github.com/user-attachments/assets/297284cc-3448-458a-b316-5a3e62a804ac" />
+
 
 ---
 
@@ -290,7 +296,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM total_successful_ride_value;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065052.png)
+<img width="187" height="45" alt="image" src="https://github.com/user-attachments/assets/71e13bf4-081c-4c5d-ab2f-d64580d757c2" />
 
 ---
 
@@ -311,7 +317,8 @@ WHERE Incomplete_Rides = 'Yes';
 SELECT * FROM Incomplete_Rides_Reason;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/SQL%20images/Screenshot%202024-12-16%20065216.png)
+<img width="333" height="272" alt="image" src="https://github.com/user-attachments/assets/3b03de85-baba-4ba6-ac98-d99488af5450" />
+
 
 ---
 
@@ -526,6 +533,7 @@ For any queries or feedback, feel free to reach out:
 ## 🙌 Acknowledgments
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
+
 
 
 
