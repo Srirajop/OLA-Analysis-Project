@@ -322,40 +322,7 @@ SELECT * FROM Incomplete_Rides_Reason;
 
 ---
 
-## 📥 Ola DA Project SQL.sql File
 
-This project includes an `Ola DA Project SQL.sql` file containing all the SQL queries and view creation statements mentioned in this README. To use this file:
-
-1. **Download the File**:
-
-   - Ensure you have the `Ola DA Project SQL.sql` file in your local directory.
-
-2. **Open in MySQL Workbench**:
-
-   - Open MySQL Workbench and connect to your database server.
-   - Go to the "File" menu and select "Open SQL Script."
-   - Choose the `Ola DA Project SQL.sql` file.
-
-3. **Run the Script**:
-
-   - Click on the "Execute" button (lightning icon) to run the script.
-
-4. **Verify the Views**:
-   - Use queries such as `SELECT * FROM <view_name>` to verify that the views are created successfully.
-
-This file simplifies setting up the project and ensures all queries and views are executed in a single step.
-
-## File Details 📁
-
-- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
-- **Size**: `4 KB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
-
-</details>
-
----
 
 <details>
     <summary>Power BI 📈</summary>
@@ -383,9 +350,6 @@ This Power BI project provides a comprehensive analysis of OLA's operational and
 📌 **Customer vs. Driver Ratings**: Compares customer and driver ratings to identify gaps in satisfaction.
 
 ---
-
-![App Screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png)
-
 ---
 
 ## 🛠️ Tools Used:
@@ -443,7 +407,9 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Booking Status Breakdown: Display the distribution of completed, canceled, and pending bookings.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png"  />
+    <img width="1425" height="809" alt="image" src="https://github.com/user-attachments/assets/08bf7ad2-3cd3-42d8-be59-a07bcdb340d4" />
+
+
 </div>
 </ul>
 
@@ -452,7 +418,9 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Top 5 Vehicle Types by Ride Distance: Show the top 5 vehicle types based on ride distance.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201113.png"  />
+    <img width="1427" height="799" alt="image" src="https://github.com/user-attachments/assets/446faded-60fe-44fc-aa34-f55a2ac694e3" />
+
+
 </div>
 </ul>
 
@@ -463,7 +431,9 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Ride Distance Distribution Per Day: Display the distribution of ride distances on a daily basis.</li> 
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201137.png"  />
+    <img width="1424" height="801" alt="image" src="https://github.com/user-attachments/assets/f7c9e861-0bd2-4094-aca2-e05b4de0a4ec" />
+
+
 </div> 
 </ul>
 
@@ -473,7 +443,9 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Cancelled Rides Reasons (Driver): Show the reasons behind canceled rides by drivers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201201.png"  />
+    <img width="1419" height="801" alt="image" src="https://github.com/user-attachments/assets/6fb4e676-52a1-473b-8784-c68e3a0b209a" />
+
+
 </div>
 </ul>
 
@@ -483,7 +455,8 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Customer Ratings: Display the distribution of ratings given by customers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20201233.png"  />
+    <img width="1427" height="798" alt="image" src="https://github.com/user-attachments/assets/fd02cf83-79f2-4eec-a6a9-954fd2fa574f" />
+
 </div>
 </ul>
 </ol>
@@ -510,17 +483,6 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 2. Open the file in **Power BI Desktop**.
 3. Explore the dashboards and insights interactively.
 
-## File Details 📁
-
-- **File Name**: `Ola DA Project.pbix` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project.pbix)
-- **Size**: `3.96 MB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
-
-</details>
-
----
 
 ## Contact 📧
 
@@ -533,6 +495,7 @@ For any queries or feedback, feel free to reach out:
 ## 🙌 Acknowledgments
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
+
 
 
 
