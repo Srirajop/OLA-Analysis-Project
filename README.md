@@ -1,21 +1,17 @@
-﻿# 🚖 OLA Analysis Project
+# 🚖 OLA Analysis Project
 
 This project uses SQL and Power BI to tackle the business challenge of optimizing a ride-booking service. By analyzing booking statuses, customer behavior, and driver performance, I identified key trends to inform strategic decisions. The final Power BI dashboard provides actionable insights on revenue, sales, and vehicle performance, directly addressing the need for data-driven service improvement.
 
 ## 🎥 Demo
 
-
-
-https://github.com/user-attachments/assets/ec96075c-619a-488a-8219-be75ded65077
-
-
+<img src="https://github.com/user-attachments/assets/ec96075c-619a-488a-8219-be75ded65077" alt="GIF of the Power BI dashboard" width="800">
 
 > [!NOTE]
-> Click the dropdown list below for more information on SQL or Power BI.
+> Click the dropdown lists below for more information on SQL or Power BI.
 
 ---
 
-</details>
+<details>
 <summary>SQL 📊</summary>
 
 # 🚖 OLA Data Analyst Project SQL
@@ -30,25 +26,25 @@ The main objective of this project is to extract meaningful insights and statist
 
 - **📊 Tables**: The database is primarily focused on the `bookings` table, which contains the following key columns:
 
-  - `Booking_ID`: Unique identifier for each ride.
-  - `Customer_ID`: ID of the customer who booked the ride.
-  - `Vehicle_Type`: Type of vehicle used (e.g., Prime Sedan, Auto, etc.).
-  - `Booking_Status`: Status of the ride (e.g., `Success`, `Cancelled by Customer`, etc.).
-  - `Ride_Distance`: Distance covered in the ride (in kilometers).
-  - `Payment_Method`: Mode of payment used for the ride (e.g., UPI, Card, Cash).
-  - `Driver_Ratings`: Ratings provided by customers to the drivers (out of 5).
-  - `Customer_Rating`: Ratings provided by drivers to the customers (out of 5).
-  - `Booking_Value`: Monetary value of the completed ride.
-  - `Incomplete_Rides`: A flag to indicate whether the ride was completed or not.
-  - `Incomplete_Rides_Reason`: If the ride was incomplete, this column stores the reason.
+  - `Booking_ID`: Unique identifier for each ride.
+  - `Customer_ID`: ID of the customer who booked the ride.
+  - `Vehicle_Type`: Type of vehicle used (e.g., Prime Sedan, Auto, etc.).
+  - `Booking_Status`: Status of the ride (e.g., `Success`, `Cancelled by Customer`, etc.).
+  - `Ride_Distance`: Distance covered in the ride (in kilometers).
+  - `Payment_Method`: Mode of payment used for the ride (e.g., UPI, Card, Cash).
+  - `Driver_Ratings`: Ratings provided by customers to the drivers (out of 5).
+  - `Customer_Rating`: Ratings provided by drivers to the customers (out of 5).
+  - `Booking_Value`: Monetary value of the completed ride.
+  - `Incomplete_Rides`: A flag to indicate whether the ride was completed or not.
+  - `Incomplete_Rides_Reason`: If the ride was incomplete, this column stores the reason.
 
 - **🔍 Views**: This document includes SQL `CREATE VIEW` statements to predefine specific datasets and make querying simpler for repetitive tasks.
 
 - **📈 Key Insights**: Using SQL, we retrieve data that helps us answer questions such as:
-  - The top-performing customers.
-  - Average ratings and distances.
-  - Trends in cancellations by drivers and customers.
-  - The total revenue from successful rides.
+  - The top-performing customers.
+  - Average ratings and distances.
+  - Trends in cancellations by drivers and customers.
+  - The total revenue from successful rides.
 
 ---
 
@@ -57,8 +53,6 @@ The main objective of this project is to extract meaningful insights and statist
 ```sql
 CREATE DATABASE Ola;
 USE Ola;
-```
-
 ## 📂 Importing Data into MySQL Workbench
 
 To work with the database, we first need to import the data from the `bookings.csv` file into MySQL Workbench. Follow these steps:
@@ -320,11 +314,11 @@ SELECT * FROM Incomplete_Rides_Reason;
 <img width="333" height="272" alt="image" src="https://github.com/user-attachments/assets/3b03de85-baba-4ba6-ac98-d99488af5450" />
 
 
----
+
 
 
 </details>
----
+
 <details>
     <summary>Power BI 📈</summary>
 
@@ -496,6 +490,7 @@ For any queries or feedback, feel free to reach out:
 ## 🙌 Acknowledgments
 
 A big shoutout to [Top VarSity](https://www.youtube.com/@TopVarSity) for their helpful tutorial that guided this project. A heartfelt thanks to Top VarSity for sharing valuable insights in their YouTube video tutorial, which can be found [here](https://www.youtube.com/watch?si=29Ikp70AdbmvziIh&v=1uPUyT9LoHQ&feature=youtu.be). Your content played a significant role in shaping the success of this project!
+
 
 
 
